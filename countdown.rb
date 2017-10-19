@@ -1,8 +1,9 @@
 #write your code here
 
-def countdown
+def countdown(second)
   x=0
-  while x
+  while x >=0
+    "10 SECOND(S)!""
 end
 
 def countdown_with_sleep
